@@ -1208,8 +1208,8 @@ table {
         <h2 class="heading">My <span>Certificates</span></h2>
         <div class="certificates-list">
             <div class = "certificates">
-                <a href="./images/Responsive Web Design - FreeCodeCamp Certification.png" target="_blank">
-                    <img src="./images/Responsive Web Design - FreeCodeCamp Certification.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Responsive Web Design - FreeCodeCamp Certification.png" target="_blank">
+                    <img src="/images/Responsive Web Design - FreeCodeCamp Certification.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>RESPONSIVE WEB DESIGN CERTIFICATE</h3>
@@ -1219,8 +1219,8 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/Javascript.png" target="_blank">
-                    <img src="./images/Javascript.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Javascript.png" target="_blank">
+                    <img src="/images/Javascript.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>JAVASCRIPT ALGORITHMS AND DATA STRUCTURES</h3>
@@ -1230,8 +1230,8 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/Front End Development - HTML.jpg" target="_blank">
-                    <img src="./images/Front End Development - HTML.jpg" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Front End Development - HTML.jpg" target="_blank">
+                    <img src="/images/Front End Development - HTML.jpg" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>FRONT END DEVELOPMENT - HTML</h3>
@@ -1241,8 +1241,8 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/Solo Learn - PHP.png" target="_blank">
-                    <img src="./images/Solo Learn - PHP.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Solo Learn - PHP.png" target="_blank">
+                    <img src="/images/Solo Learn - PHP.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>PHP</h3>
@@ -1252,8 +1252,8 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/Solo Learn - Python Data Structures.png" target="_blank">
-                    <img src="./images/Solo Learn - Python Data Structures.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Solo Learn - Python Data Structures.png" target="_blank">
+                    <img src="/images/Solo Learn - Python Data Structures.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>Python Data Structures</h3>
@@ -1263,8 +1263,8 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/Intro to ChatGPT and Generative AI.jpg" target="_blank">
-                    <img src="./images/Intro to ChatGPT and Generative AI.jpg" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/Intro to ChatGPT and Generative AI.jpg" target="_blank">
+                    <img src="/images/Intro to ChatGPT and Generative AI.jpg" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>Introduction to ChatGPT and Generative AI</h3>
@@ -1274,35 +1274,35 @@ table {
             </div>
 
             <div class = "certificates">
-                <a href="./images/NVIDIA CERTT.png" target="_blank">
-                    <img src="./images/NVIDIA CERTT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/NVIDIA CERTT.png" target="_blank">
+                    <img src="/images/NVIDIA CERTT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>DEEP LEARNING</h3>
                     <p>FROM: NVIDIA</p>
-                    <a href="./images/NVIDIA CERTT.png" target="_blank" class="cert-button">Learn More</a>
+                    <a href="/images/NVIDIA CERTT.png" target="_blank" class="cert-button">Learn More</a>
                 </div>
             </div>
 
             <div class = "certificates">
-                <a href="./images/AI How the technology - DICT.png" target="_blank">
-                    <img src="./images/AI How the technology - DICT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/AI How the technology - DICT.png" target="_blank">
+                    <img src="/images/AI How the technology - DICT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>AI</h3>
                     <p>FROM: DICT</p>
-                    <a href="./images/AI How the technology - DICT.png" target="_blank" class="cert-button">Learn More</a>
+                    <a href="/images/AI How the technology - DICT.png" target="_blank" class="cert-button">Learn More</a>
                 </div>
             </div>
 
             <div class = "certificates">
-                <a href="./images/cybertalks - DICT.png" target="_blank">
-                    <img src="./images/cybertalks - DICT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
+                <a href="/images/cybertalks - DICT.png" target="_blank">
+                    <img src="/images/cybertalks - DICT.png" alt="Responsive Web Design - FreeCodeCamp Certification">
                 </a>
                 <div class="layer">
                     <h3>CYBERTALKS</h3>
                     <p>FROM: DICT</p>
-                    <a href="./images/cybertalks - DICT.png" target="_blank" class="cert-button">Learn More</a>
+                    <a href="/images/cybertalks - DICT.png" target="_blank" class="cert-button">Learn More</a>
                 </div>
             </div>
 
